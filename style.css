@@ -41,3 +41,9 @@ h1 {
 .link:hover {
     background: #555;
 }
+
+.glitch { color: #ff69b4; } /* Rose */
+.github { color: #f5b400; } /* Jaune/orange */
+.prologin { color: #4caf50; } /* Vert */
+.olympiade { color: #1e90ff; } /* Bleu */
+.demo { color: #ff4500; } /* Rouge orangé */
