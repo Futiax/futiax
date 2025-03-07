@@ -1,5 +1,7 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: "IBM Plex Sans Condensed", sans-serif;
+    font-weight: 600;
+    font-style: normal;
     background-color: #121212;
     color: white;
     display: flex;
@@ -66,7 +68,7 @@ h1 {
 .github { color: #f5b400; } /* Jaune/orange */
 .prologin { color: #4caf50; } /* Vert */
 .olympiade { color: #1e90ff; } /* Bleu */
-.demo { color: #ff4500; } /* Rouge orangé */
-.demo-laby { color: #888888; }
-.demo-bs { color: #efef00; }
-.demo-pendu { color: #000060; }
+.conv { color: #ff4500; } /* Rouge orangé */
+.laby { color: #298a16; }
+.bs { color: #efef00; }
+.pendu { color: #00e1ff; }
