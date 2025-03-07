@@ -37,8 +37,28 @@ h1 {
     border-radius: 5px;
     transition: 0.3s;
 }
+.demos {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 15px;
+}
 
-.link:hover {
+.demo:hover {
+    background: #555;
+}
+
+.demo {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    background: #333;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.demo:hover {
     background: #555;
 }
 
