@@ -1,6 +1,6 @@
 body {
-    font-family: "IBM Plex Sans Condensed", sans-serif;
-    font-weight: 600;
+    font-family: "Minecraft", sans-serif;
+    font-weight: 800;
     font-style: normal;
     background-color: #121212;
     color: white;
@@ -8,7 +8,8 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    margin: 0;
+    margin: 2px;
+    letter-spacing: 2px;
 }
 
 .container {
