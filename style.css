@@ -85,3 +85,17 @@ h1 {
     color: #ff00ff; 
     text-decoration-line: underline;
 }
+.download-btn {
+    display: inline-block;
+    padding: 15px 30px;
+    font-size: 18px;
+    color: white;
+    background: #007bff;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: background 0.3s;
+}
+
+.download-btn:hover {
+    background: #0056b3;
+}
